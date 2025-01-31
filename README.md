@@ -52,8 +52,7 @@ Analyzing raw sales data manually can be time-consuming and inefficient. Busines
 
 * Analyze sales trends, top-product performance, and regional sales insights.
 
-![Sales Dashboard](https://github.com/user-attachments/assets/33f40b42-9ff3-4921-8a9f-5fc2a36de3ed)
-
+![Sales Dashboard](https://github.com/user-attachments/assets/37671031-bfad-4bba-9f04-38aaf1f9fc6b)
 
 # Conclusion
 
